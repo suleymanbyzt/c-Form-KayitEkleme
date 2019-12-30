@@ -1,0 +1,15 @@
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\bin\Debug\7Kasim1.exe.config
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\bin\Debug\7Kasim1.exe
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\bin\Debug\7Kasim1.pdb
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.csprojResolveAssemblyReference.cache
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\_7Kasim1.Form1.resources
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\_7Kasim1.Properties.Resources.resources
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.csproj.GenerateResource.Cache
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.exe
+E:\Zülfü ALANOĞLU\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.pdb
+C:\Users\BJK\Documents\2.SINIF\Yeni klasör\Yeni klasör\Gorsel2019Guz\7Kasim1\7Kasim1\bin\Debug\7Kasim1.exe.config
+C:\Users\BJK\Documents\2.SINIF\Yeni klasör\Yeni klasör\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.exe
+C:\Users\BJK\Documents\2.SINIF\Yeni klasör\Yeni klasör\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.pdb
+C:\Users\Süleyman\Desktop\Gorsel2019Guz\7Kasim1\7Kasim1\bin\Debug\7Kasim1.exe.config
+C:\Users\Süleyman\Desktop\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.exe
+C:\Users\Süleyman\Desktop\Gorsel2019Guz\7Kasim1\7Kasim1\obj\Debug\7Kasim1.pdb
